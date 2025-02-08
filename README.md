@@ -4,7 +4,7 @@ Implementação em Python do algoritmo de Prim
 
 Conecte todos os pontos a seguir com arestas simples, de modo a minimizar a distância total de arestas.
 
-!(https://ideiasesquecidas.com/wp-content/uploads/2025/02/pontos.png)[]
+!()[https://ideiasesquecidas.com/wp-content/uploads/2025/02/pontos.png]
 
 Dado um grafo, uma árvore geradora mínima (minimum spanning tree) é uma estrutura como a da figura a seguir, que também é uma solução possível para o problema acima.
 
